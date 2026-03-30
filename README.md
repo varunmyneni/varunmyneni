@@ -123,7 +123,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=varunmyneni&color=0e75b6&style=for-the-badge&label=Profile+Views)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varunmyneni&theme=tokyonight" width="100%" alt="Profile Details"/>
 
