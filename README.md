@@ -128,7 +128,6 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=varunmyneni&theme=tokyonight" width="32%" alt="Stats"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varunmyneni&theme=tokyonight" width="32%" alt="Repos Per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=varunmyneni&theme=tokyonight" width="32%" alt="Most Commit Language"/>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varunmyneni&theme=tokyo-night&hide_border=true&area=true)](https://github.com/varunmyneni)
 
