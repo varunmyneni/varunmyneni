@@ -123,8 +123,12 @@
 
 <div align="center">
 
-![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunmyneni&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varunmyneni&layout=compact&theme=tokyonight&hide_border=true)
+![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunmyneni&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varunmyneni&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=varunmyneni&theme=tokyonight&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=varunmyneni&color=blue&style=for-the-badge&label=Profile+Views)
 
 </div>
 
