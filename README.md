@@ -129,7 +129,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=varunmyneni&theme=tokyonight" width="32%" alt="Stats"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varunmyneni&theme=tokyonight" width="32%" alt="Repos Per Language"/>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varunmyneni&theme=tokyo-night&hide_border=true&area=true)](https://github.com/varunmyneni)
+![GitHub Streak](https://streak-stats.demolab.com?user=varunmyneni&theme=tokyonight&hide_border=true)
 
 </div>
 
