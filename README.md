@@ -123,12 +123,15 @@
 
 <div align="center">
 
-![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunmyneni&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varunmyneni&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Profile Views](https://komarev.com/ghpvc/?username=varunmyneni&color=0e75b6&style=for-the-badge&label=Profile+Views)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=varunmyneni&theme=tokyonight&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varunmyneni&theme=tokyonight" width="100%" alt="Profile Details"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=varunmyneni&color=blue&style=for-the-badge&label=Profile+Views)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=varunmyneni&theme=tokyonight" width="32%" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varunmyneni&theme=tokyonight" width="32%" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=varunmyneni&theme=tokyonight" width="32%" alt="Most Commit Language"/>
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varunmyneni&theme=tokyo-night&hide_border=true&area=true)](https://github.com/varunmyneni)
 
 </div>
 
