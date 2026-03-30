@@ -153,6 +153,6 @@
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail)](mailto:varunmynei@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4CAF50?style=for-the-badge&logo=google-chrome)](https://varunmyneni.pythonanywhere.com)
 
-*"Security is not a product, but a process — and I build both."*
+*"Security is not a product, but a process, and I build both."*
 
 </div>
