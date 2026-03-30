@@ -109,7 +109,7 @@
 
 ## 📚 Research Publications
 
-- 📄 **[AI/ML-Powered Phishing Email Detection System: A Web App & Chrome Extension Approach](https://varunmyneni.pythonanywhere.com)**
+- 📄 **[AI/ML-Powered Phishing Email Detection System: A Web App & Chrome Extension Approach](https://dr.lib.iastate.edu/handle/20.500.12876/106149)**
   *Iowa State University Master's Creative Component — Aug 2025*
   > Achieved 95%+ detection accuracy; 15-20% higher than existing free anti-phishing solutions; handled 10k+ concurrent users
 
